@@ -4,7 +4,7 @@
 - 📫 How to reach me?
 -     Ans: sanjayvg.pdf@gmail.com
 - 😄 Pronouns: He/Him/Human
-- ⚡ Fun fact: I would be unserious in the most serious sitiation 
+- ⚡ Fun fact: I would be unserious in the most serious situation 
 
 <!---
 vg-sanjay/vg-sanjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
