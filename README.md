@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vg-sanjay
 - 👀 I’m interested in you
 - 🌱 I’m currently learning to live
-- 📫 How to reach me: sanjay.v.g006@gmail.com
+- 📫 How to reach me?
+-     Ans: sanjayvg.pdf@gmail.com
 - 😄 Pronouns: He/Him/Human
 - ⚡ Fun fact: I would be unserious in the most serious sitiation 
 
