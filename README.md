@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @vg-sanjay
-- 👀 I’m interested in you
-- 🌱 I’m currently learning to live
+- 🌱 Striding For The Past 18 Years
 - 📫 How to reach me?
 -     Ans: sanjayvg.pdf@gmail.com
 - 😄 Pronouns: He/Him/Human
-- ⚡ Fun fact: I would be unserious in the most serious situation 
+- ⚡ Fun fact: xD
 
 <!---
 vg-sanjay/vg-sanjay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
